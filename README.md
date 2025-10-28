@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm LucaG</h1>
+<h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate Full-Stack-Developer from Germany</h3>
 
-- 🌱 I’m currently learning **JS Frameworks & C#**
-- 📫 How to reach me **https://discord.com/users/437962255762587648/**
-
-[![wakatime](https://wakatime.com/badge/user/2b390964-315a-4e59-a902-7114d3a6102b.svg)](https://wakatime.com/@2b390964-315a-4e59-a902-7114d3a6102b)
+- 🌱 I’m currently learning **C & Java**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,14 +47,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-<a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Racket_logo_2019.svg" alt="racket" width="40" height="40"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Assembly-language-icon.svg" alt="assembler" width="40" height="40"/>
-</a>
-
+  <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/2048px-Racket-logo.svg.png" alt="racket" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="assembler" width="40" height="40"/>
+  </a>
 </p>
 
 
