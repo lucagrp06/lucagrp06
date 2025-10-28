@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate Full-Stack-Developer from Germany</h3>
 
-- 🌱 I’m currently learning **C & Java**
+🌱 I’m currently learning **C & Java**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,10 +53,4 @@
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
     <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="assembler" width="40" height="40"/>
   </a>
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/437962255762587648/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>
 </p>
