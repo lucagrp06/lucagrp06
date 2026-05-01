@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate Full-Stack-Developer from Germany</h3>
 
-🌱 I’m currently learning **C & Java**
+🌱 I’m currently learning **C & C++**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
